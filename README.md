@@ -1,7 +1,7 @@
 👋 Hi, I'm Julius Ray Paampag
-    I am the main project repository for the courses found at my sight: www.learncomputertoday.net
-    I am so glad to meet your here
-    I hope we learn together
+  - I am the main project repository for the courses found at my sight: www.learncomputertoday.net
+  - I am so glad to meet your here
+  -  I hope we learn together
   - Let's learcn computer today!
 
 <!--
